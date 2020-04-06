@@ -13,6 +13,10 @@ Downloaded from GeeksEngine.com
 CREATE DATABASE /*!32312 IF NOT EXISTS*/`northwind` /*!40100 DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci */;
 
 USE `northwind`;
+<<<<<<< HEAD
+USE `northwind2`;
+=======
+
 
 -- Table structure for table `categories`
 
