@@ -16,6 +16,9 @@ CREATE DATABASE /*!32312 IF NOT EXISTS*/`northwind` /*!40100 DEFAULT CHARACTER S
 USE `northwind2`;
 =======
 
+=======
+/*USE `northwind4`;
+>>>>>>> e33616ea04b47c4fd2bb1d6cc0db62194c5157cf*/
 
 -- Table structure for table `categories`
 
